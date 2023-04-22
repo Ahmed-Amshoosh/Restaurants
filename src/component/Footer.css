@@ -1,0 +1,27 @@
+.footer{
+    padding: 50px 0 50px 0;
+    margin: 50px 0 0 0 ;
+    background-color: #a82d49;
+    color: #fff;
+    text-align: center;
+}
+.footer a{
+    font-size: 17px;
+    font-weight: 400;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer a:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+.footer .icon a{
+    text-decoration: none;
+}
+
+.footer .icon img{
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+}
